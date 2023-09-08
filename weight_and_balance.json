@@ -1,0 +1,17 @@
+{
+  "plane": "D-EXAV",
+  "front_seats": {
+    "pilot": 60,
+    "passenger": 80
+  },
+  "back_seats": {
+    "flight bag": 5
+  },
+  "front_baggage": {
+    "preflight box": 2
+  },
+  "back_baggage": {
+    "towbar": 2
+  },
+  "fuel": 200
+}
