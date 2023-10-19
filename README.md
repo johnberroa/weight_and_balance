@@ -1,5 +1,5 @@
 # Weight and Balance
-This is a simple weight and balance PDF generator for aircraft. Currently, it only supports the Cessna 172S model.
+This is a simple weight and balance PDF generator for aircraft. Currently, it only supports the Cessna 172S model and the Breezer C (without graph).
 
 ## Usage
 Enter the name and weights of persons/baggage in `weight_and_balance.json`. 

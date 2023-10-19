@@ -1,0 +1,11 @@
+{
+  "plane": "D-MSDK",
+  "front_seats": {
+    "pilot": 60,
+"Passenger": 80
+  },
+  "baggage": {
+    "flight bag": 3
+  },
+  "fuel": 68
+}

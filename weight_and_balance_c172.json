@@ -5,7 +5,8 @@
     "passenger": 80
   },
   "back_seats": {
-    "flight bag": 5
+    "flight bag": 3,
+    "Passenger bag":3
   },
   "front_baggage": {
     "preflight box": 2
@@ -13,5 +14,5 @@
   "back_baggage": {
     "towbar": 2
   },
-  "fuel": 200
+  "fuel": 160
 }
